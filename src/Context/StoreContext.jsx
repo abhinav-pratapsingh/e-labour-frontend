@@ -8,7 +8,7 @@ export const StoreContext = createContext();
 
 export const StoreProvider = (props) => {
     // Backend URL
-    const URL_LINK = "https://e-labour-backend.onrender.com/";
+    const URL_LINK = "https://13.60.2.151.nip.io/";
 
     // const URL_LINK = "http://localhost:5000/"
 
